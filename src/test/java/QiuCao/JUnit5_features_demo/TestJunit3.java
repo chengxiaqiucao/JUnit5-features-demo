@@ -1,4 +1,4 @@
-package qiucao.JUnit5_features_demo;
+package QiuCao.JUnit5_features_demo;
 
 /*
  * Junit3引入的是Framework包

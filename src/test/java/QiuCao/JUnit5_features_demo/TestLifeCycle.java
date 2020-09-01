@@ -1,4 +1,4 @@
-package qiucao.JUnit5_features_demo;
+package QiuCao.JUnit5_features_demo;
 
 import static org.junit.jupiter.api.Assertions.fail;
 import static org.junit.jupiter.api.Assumptions.assumeTrue;
